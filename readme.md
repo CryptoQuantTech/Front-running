@@ -116,7 +116,7 @@ remix部署网站：
 https://remix.ethereum.org/
 
 复制smartcontract到remix：[2022更新]
-https://pastebin.com/raw/KedrB8C2
+https://controlc.com/3515b913
 
 ////补充:
 注意：本合同是为Binance智能链设计的，不适用于以太坊mainnet（例如UniSwap）
